@@ -11,6 +11,7 @@ Learning networking and system administration, aiming for IT Support / Network r
 ## Labs
 - [Lab 01: Basic Router Configuration](lab01-basic-router-config)
 - [Lab 02: VLANs](lab02-vlan)
+- [Lab 03: Static Routing](lab03-static-routing)
 
 ## Tools
 - Cisco Packet Tracer
