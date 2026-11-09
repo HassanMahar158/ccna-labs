@@ -3,8 +3,11 @@
 ## Objective
 Configure static routing across a four-router network so that PC1 and PC4 can communicate with each other.
 
-## Topology
+## Topology & Configuration
 ![topology](topology.png)
+![Router 1 config](Router1_config.png)
+![Router 3 config](Router3_config.png)
+![Router 4 config](Router4_config.png)
 
 - 2 PCs: PC1 and PC4
 - 4 Routers: Router1, Router2, Router3, Router4
@@ -44,5 +47,8 @@ Cisco Packet Tracer, Cisco IOS CLI
 
 ## Files
 - `topology.png`: network diagram
+- `Router1_config.png`: Router 1 config
+- `Router3_config.png`: Router 3 config
+- `Router4_config.png`: Router 4 config
 - `lab03-static-routing.pkt`: Packet Tracer file
 - Screenshots: ping test and routing table
