@@ -8,7 +8,7 @@ Configure static routing across a four-router network so that PC1 and PC4 can co
 ![Router 1 config](Router1_config.png)
 ![Router 3 config](Router3_config.png)
 ![Router 4 config](Router4_config.png)
-![static routing file](lab03-static-routing.pkt)
+[static routing file](lab03-static-routing.pkt)
 
 - 2 PCs: PC1 and PC4
 - 4 Routers: Router1, Router2, Router3, Router4
